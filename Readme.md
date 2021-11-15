@@ -19,12 +19,20 @@ vulntarget漏洞是我们自行设计搭建的靶场，其中涵盖Web漏洞、�
 # 3. 靶场设计记录
 ## 3.1 vulntarget-a
 请参考：`https://mp.weixin.qq.com/s/uxwbnVOxkR8OBkkY9WW6aQ`
-# 4. 维护人员
-## 4.1 vulntarget-a
+# 4. 靶场下载
+
+## 4.1 vulntrarget-a
+
+下载地址：链接: https://pan.baidu.com/s/195iUmvbaKOhtn2S_O-F6TA 提取码: jnkq 
+
+
+# 5. 维护人员
+
+## 5.1 vulntarget-a
 设计：`mortals`
 测试：`crow` 、`jiuq`、`CyPher`、`Hamster`
 ​
 
-# 5. 联系我们
+# 6. 联系我们
 公众号：星期五实验室
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/8378754/1636941927946-1d47d37b-9e8f-402d-aaff-129fe6e40bbe.png)
