@@ -4,8 +4,9 @@ vulntarget靶场系列仅供安全专业人员练习渗透测试技术，此靶�
 vulntarget靶场系列拥有对此靶场系列的的修改、删除和解释权限，未经授权，不得用于其他。
 ​
 
-未授权，不渗透！！！
-​
+<h1 ><font color='red'>未授权，不渗透！！！</font></h1>
+
+
 
 # 2. 靶场介绍
 vulntarget漏洞是我们自行设计搭建的靶场，其中涵盖Web漏洞、主机漏洞、域漏洞、工控漏洞等等。
@@ -17,7 +18,7 @@ vulntarget漏洞是我们自行设计搭建的靶场，其中涵盖Web漏洞、�
 欢迎多多star。。。
 # 3. 靶场设计记录
 ## 3.1 vulntarget-a
-请参考：`[https://mp.weixin.qq.com/s/uxwbnVOxkR8OBkkY9WW6aQ](https://mp.weixin.qq.com/s/uxwbnVOxkR8OBkkY9WW6aQ)`
+请参考：`https://mp.weixin.qq.com/s/uxwbnVOxkR8OBkkY9WW6aQ`
 # 4. 维护人员
 ## 4.1 vulntarget-a
 设计：`mortals`
