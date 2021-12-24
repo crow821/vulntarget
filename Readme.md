@@ -22,7 +22,7 @@
 
 ## 3.2 vulntarget-b
 
-请参考：星期五实验室公众号
+请参考：`https://mp.weixin.qq.com/s/S3aiKN_IIhxWRyizAb8zLg`
 
 # 4. 靶场下载
 
