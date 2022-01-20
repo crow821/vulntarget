@@ -24,7 +24,7 @@
 
 请参考：`https://mp.weixin.qq.com/s/S3aiKN_IIhxWRyizAb8zLg`
 
-## 3.2 vulntarget-b
+## 3.2 vulntarget-c
 
 请参考：`星期五实验室`
 
