@@ -18,15 +18,15 @@
 欢迎多多star。。。
 # 3. 靶场设计记录
 ## 3.1 vulntarget-a
-请参考：`https://mp.weixin.qq.com/s/uxwbnVOxkR8OBkkY9WW6aQ`
+请参考：https://mp.weixin.qq.com/s/uxwbnVOxkR8OBkkY9WW6aQ
 
 ## 3.2 vulntarget-b
 
-请参考：`https://mp.weixin.qq.com/s/S3aiKN_IIhxWRyizAb8zLg`
+请参考：https://mp.weixin.qq.com/s/S3aiKN_IIhxWRyizAb8zLg
 
 ## 3.2 vulntarget-c
 
-请参考：`星期五实验室`
+请参考：https://mp.weixin.qq.com/s/cisoqDnsHqyzCFdx-eG5TQ
 
 # 4. 靶场下载
 
