@@ -66,7 +66,17 @@
 
 ~~阿里云当前不支持zip文件分享~~
 
+## 4.1 vulntrarget-d
 
+下载地址：
+
+百度云：
+
+链接: https://pan.baidu.com/s/1p3GDd7V3Unmq3-wSAvl7_Q 提取码: `1p9p`
+
+阿里云：
+
+~~阿里云当前不支持zip文件分享~~
 
 
 # 5. 维护人员
@@ -75,14 +85,19 @@
 设计：`mortals`
 测试：`crow` 、`jiuq`、`CyPher`、`mouse`、`mortals`
 
-## 5.1 vulntarget-b
+## 5.2 vulntarget-b
 
 设计：`mortals`
 测试：`mouse`、`ZeroP`、`mortals`
 
-## 5.1 vulntarget-c
+## 5.3 vulntarget-c
 
 设计：`mortals`
+测试：`mouse`、`crow`、`mortals`
+
+## 5.4 vulntarget-d
+
+设计：`mortals`、`crow`
 测试：`mouse`、`crow`、`mortals`
 
 # 6. 联系我们
@@ -90,8 +105,13 @@
 
 邮箱：vuln@bolean.com.cn
 
-公众号：星期五实验室
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/8378754/1636941927946-1d47d37b-9e8f-402d-aaff-129fe6e40bbe.png)
+公众号：`星期五实验室`
+
+<img src="Friday_lab.png" width="50%" height="50%" />
+
+公众号：`乌鸦安全`
+
+<img src="crowsec.jpg" width="50%" height="50%" />
 
 # star
 
