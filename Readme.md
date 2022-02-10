@@ -1,4 +1,4 @@
-# 更新时间：2022.02.09
+# 更新时间：2022.02.10
 # 1. 免责声明
 `vulntarget`靶场系列仅供安全专业人员练习渗透测试技术，此靶场所提供的信息只为网络安全人员对自己所负责的网站、服务器等（包括但不限于）进行检测或维护参考，未经授权请勿利用靶场中的技术资料对任何计算机系统进行入侵操作。利用此靶场所提供的信息而造成的直接或间接后果和损失，均由使用者本人负责。
 `vulntarget`靶场系列拥有对此靶场系列的的修改、删除和解释权限，未经授权，不得用于其他。
@@ -6,7 +6,7 @@
 
 <h1 ><font color='red'>未授权，不渗透！！！</font></h1>
 
-
+321
 
 # 2. 靶场介绍
 `vulntarget`靶场是我们自行设计搭建的靶场，其中涵盖Web漏洞、主机漏洞、域漏洞、工控漏洞等等。
@@ -24,9 +24,13 @@
 
 请参考：https://mp.weixin.qq.com/s/S3aiKN_IIhxWRyizAb8zLg
 
-## 3.2 vulntarget-c
+## 3.3vulntarget-c
 
 请参考：https://mp.weixin.qq.com/s/cisoqDnsHqyzCFdx-eG5TQ
+
+## 3.4 vulntarget-d
+
+请参考：https://mp.weixin.qq.com/s/gjQnMcBXUbtYc2C2FCfEhQ
 
 # 4. 靶场下载
 
