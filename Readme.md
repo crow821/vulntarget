@@ -20,7 +20,7 @@
 	<img src="https://img.shields.io/github/issues-pr/crow821/vulntarget?style=flat-square" alt="vulntarget pull-requests"/>
   </a>
 
-> 更新时间：2022.03.28 
+> 更新时间：2022.05.10 
 
 # 1. 免责声明
 
@@ -46,39 +46,47 @@
 
 ## 3.1 vulntarget-a
 
-请参考：https://mp.weixin.qq.com/s/uxwbnVOxkR8OBkkY9WW6aQ
+搭建&打靶：https://mp.weixin.qq.com/s/uxwbnVOxkR8OBkkY9WW6aQ
 
 ## 3.2 vulntarget-b
 
-请参考：https://mp.weixin.qq.com/s/S3aiKN_IIhxWRyizAb8zLg
+搭建&打靶：https://mp.weixin.qq.com/s/S3aiKN_IIhxWRyizAb8zLg
 
 ## 3.3vulntarget-c
 
-请参考：https://mp.weixin.qq.com/s/cisoqDnsHqyzCFdx-eG5TQ
+搭建&打靶：https://mp.weixin.qq.com/s/cisoqDnsHqyzCFdx-eG5TQ
 
 ## 3.4 vulntarget-d
 
-请参考：https://mp.weixin.qq.com/s/gjQnMcBXUbtYc2C2FCfEhQ
+搭建&打靶：https://mp.weixin.qq.com/s/gjQnMcBXUbtYc2C2FCfEhQ
 
 ## 3.5 vulntarget-e
 
-请参考：https://mp.weixin.qq.com/s/QWpkYf56oFvNdlumNo6fMA
+搭建：https://mp.weixin.qq.com/s/QWpkYf56oFvNdlumNo6fMA
 
-请参考：https://mp.weixin.qq.com/s/eh8SXkgcSQjLkFEjNkkfHw
+打靶：https://mp.weixin.qq.com/s/eh8SXkgcSQjLkFEjNkkfHw
 
 ## 3.6 vulntarget-f
 
-请参考：https://mp.weixin.qq.com/s/t_vxF2EivycI_1WEjunEIg
+搭建：https://mp.weixin.qq.com/s/t_vxF2EivycI_1WEjunEIg
+
+打靶：https://mp.weixin.qq.com/s/5SOJ-hzrn9_HyUZrZkOjhA
+
+## 3.7 vulntarget-g
+
+搭建：https://mp.weixin.qq.com/s/uxoUqsWCBwiG_69ORJ8RAw
+
+打靶：https://mp.weixin.qq.com/s/BOACc1p6cnIJAj0pzeY2wg
 
 # 4. 靶场下载
 
-## vulntrarget-a~vulntarget-f
+## vulntrarget-a~vulntarget-g
 
 下载地址：
 
-百度云：
+百度云
 
-链接: 链接: https://pan.baidu.com/s/1sv9qdioNF4PTUliix5HEfg 提取码: 2dwq 
+链接: https://pan.baidu.com/s/1sv9qdioNF4PTUliix5HEfg 提取码: 2dwq 
 
 阿里云：
 
@@ -117,26 +125,37 @@
 设计：`mortals`、 `null`  
 测试：`mortals`、`null` 、`1ncludeSteven`、`XXP`、`ju2i`
 
+## 5.6 vulntarget-g
+
+设计：`CyPher`、`XXP`
+
+测试：`CyPher`、`XXP`、`mortals`
+
+
+
 # 6. 联系我们
 
 如果你有任何意见或建议，可以直接联系我们
 
 邮箱：vuln@bolean.com.cn  
 
-公众号：`星期五实验室`
+**公众号：`星期五实验室`**
 
-<img src="G:/work/Bolean/vulntarget/Friday_lab.png" width="50%" height="50%" />
+<img src="Friday_lab.png" width="30%" height="30%" />
 
-公众号：`乌鸦安全`
+**公众号：`乌鸦安全`**
 
-<img src="G:/work/Bolean/vulntarget/crowsec.jpg" width="50%" height="50%" />
+<img src="crowsec.jpg" width="30%" height="30%" />
 
-# star
+# stars
 
-[![Stargazers over time](G:\work\Bolean\靶场\vulntarget\images\vulntarget.svg)](https://starchart.cc/crow821/crowsec) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=crow821&show_icons=true)
+
+![Stargazers over time](https://starchart.cc/crow821/vulntarget.svg)
 
 # License
 
-Copyright © 2022 [crow821](https://github.com/crow821).<br />本项目遵循协议：[GPL--3.0 License](https://github.com/crow821/vulntarget/blob/master/LICENSE)
+Copyright © 2022 [crow821](https://github.com/crow821)
+
+本项目遵循协议：[GPL--3.0 License](https://github.com/crow821/vulntarget/blob/master/LICENSE)
+
