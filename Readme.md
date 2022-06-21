@@ -78,9 +78,15 @@
 
 打靶：https://mp.weixin.qq.com/s/BOACc1p6cnIJAj0pzeY2wg
 
+## 3.8 vulntarget-h
+
+搭建：https://mp.weixin.qq.com/s/AGmqroovR1EZN-QKnpSfDQ
+
+打靶：
+
 # 4. 靶场下载
 
-## vulntrarget-a~vulntarget-g
+## vulntrarget-a~vulntarget-h
 
 下载地址：
 
@@ -128,6 +134,12 @@
 ## 5.6 vulntarget-g
 
 设计：`CyPher`、`XXP`
+
+测试：`CyPher`、`XXP`、`mortals`
+
+## 5.6 vulntarget-h
+
+设计：
 
 测试：`CyPher`、`XXP`、`mortals`
 
