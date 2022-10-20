@@ -20,7 +20,7 @@
 	<img src="https://img.shields.io/github/issues-pr/crow821/vulntarget?style=flat-square" alt="vulntarget pull-requests"/>
   </a>
 
-> 更新时间：2022.06.17 
+> 更新时间：2022.10.20 
 
 # 1. 免责声明
 
@@ -52,7 +52,7 @@
 
 搭建&打靶：https://mp.weixin.qq.com/s/S3aiKN_IIhxWRyizAb8zLg
 
-## 3.3vulntarget-c
+## 3.3 vulntarget-c
 
 搭建&打靶：https://mp.weixin.qq.com/s/cisoqDnsHqyzCFdx-eG5TQ
 
@@ -84,9 +84,17 @@
 
 打靶：
 
+## 3.9 vulntarget-i
+
+搭建：https://mp.weixin.qq.com/s/-W2Rp9wKmwus40eMzo8WRQ
+
+打靶：
+
+
+
 # 4. 靶场下载
 
-## vulntrarget-a~vulntarget-h
+## vulntrarget-a~vulntarget-i
 
 下载地址：
 
@@ -97,6 +105,10 @@
 阿里云：
 
 ~~阿里云当前不支持zip文件分享~~
+
+蓝奏云：
+
+~~等后期接入~~
 
 
 # 5. 维护人员
@@ -121,29 +133,33 @@
 设计：`mortals`、`crow`  
 测试：`mouse`、`crow`、`mortals`
 
-## 5.4 vulntarget-e
+## 5.5 vulntarget-e
 
 设计：`小树林开炮手`、 `mortals`  
 测试：`mortals`、`小树林开炮手`、`CyPher`、`XXP`、`Macchiato`
 
-## 5.5 vulntarget-f
+## 5.6 vulntarget-f
 
 设计：`mortals`、 `null`  
 测试：`mortals`、`null` 、`1ncludeSteven`、`XXP`、`ju2i`
 
-## 5.6 vulntarget-g
+## 5.7 vulntarget-g
 
 设计：`CyPher`、`XXP`
 
 测试：`CyPher`、`XXP`、`mortals`
 
-## 5.6 vulntarget-h
+## 5.8 vulntarget-h
 
-设计：`Macchiato`
+设计：`Macchiato`  
 
 测试：`CyPher`、`XXP`、`mortals`
 
+## 5.9 vulntarget-i
 
+设计：`小树林开炮手`    
+
+测试：`Cypher`、`ju2i`、`小树林开炮手`
 
 # 6. 联系我们
 
