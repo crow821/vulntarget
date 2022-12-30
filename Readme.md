@@ -20,7 +20,7 @@
 	<img src="https://img.shields.io/github/issues-pr/crow821/vulntarget?style=flat-square" alt="vulntarget pull-requests"/>
   </a>
 
-> 更新时间：2022.10.20 
+> 更新时间：2022.12.30 
 
 # 1. 免责声明
 
@@ -38,9 +38,14 @@
 ​
 
 目前正在不断更新中。。。。。。
-​
 
-欢迎多多star。。。
+`vulntarget`整体的大小尽量控制在`16G`内存以内，主要是为了确保每个人都能够在本机对环境进行复现。
+
+欢迎多多`star`。。。
+
+`vulntarget`是一个开源的靶场，也欢迎提交您的设计
+
+
 
 # 3. 靶场设计记录
 
@@ -82,11 +87,17 @@
 
 搭建：https://mp.weixin.qq.com/s/AGmqroovR1EZN-QKnpSfDQ
 
-打靶：
+打靶：https://mp.weixin.qq.com/s/TXd_SaJMdVZeMVxNgPg2uw
 
 ## 3.9 vulntarget-i
 
 搭建：https://mp.weixin.qq.com/s/-W2Rp9wKmwus40eMzo8WRQ
+
+打靶：https://mp.weixin.qq.com/s/jHeErfr3P4XgfYPG9Ocgng
+
+## 3.10 vulntarget-j
+
+搭建：https://mp.weixin.qq.com/s/-h65qdfCcTe_8c0Tvmb10A
 
 打靶：
 
@@ -94,7 +105,7 @@
 
 # 4. 靶场下载
 
-## vulntrarget-a~vulntarget-i
+## vulntrarget-a~vulntarget-j
 
 下载地址：
 
@@ -145,27 +156,37 @@
 
 ## 5.7 vulntarget-g
 
-设计：`CyPher`、`XXP`
+设计：`CyPher`、`XXP`   
 
 测试：`CyPher`、`XXP`、`mortals`
 
 ## 5.8 vulntarget-h
 
-设计：`Macchiato`  
+设计：`Macchiato`    
 
 测试：`CyPher`、`XXP`、`mortals`
 
 ## 5.9 vulntarget-i
 
-设计：`小树林开炮手`    
+设计：`小树林开炮手`       
 
 测试：`Cypher`、`ju2i`、`小树林开炮手`
+
+## 5.10 vulntarget-j
+
+设计：`ju2i`
+
+测试：`cypher`、 `xxp`、`ju2i`
+
+
 
 # 6. 联系我们
 
 如果你有任何意见或建议，可以直接联系我们
 
 邮箱：vuln@bolean.com.cn  
+
+邮箱：`crow_821#163.com`
 
 **公众号：`星期五实验室`**
 
@@ -183,7 +204,7 @@
 
 # License
 
-Copyright © 2022 [crow821](https://github.com/crow821)
+Copyright © 2023 [crow821](https://github.com/crow821)
 
 本项目遵循协议：[GPL--3.0 License](https://github.com/crow821/vulntarget/blob/master/LICENSE)
 
