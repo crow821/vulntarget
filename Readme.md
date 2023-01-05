@@ -126,7 +126,7 @@
 
 ## 5.1 vulntarget-a
 
-设计：`mortals`
+设计：`mortals `   
 测试：`crow` 、`jiuq`、`CyPher`、`mouse`、`mortals`
 
 ## 5.2 vulntarget-b
@@ -168,13 +168,13 @@
 
 ## 5.9 vulntarget-i
 
-设计：`小树林开炮手`       
+设计：`小树林开炮手`          
 
 测试：`Cypher`、`ju2i`、`小树林开炮手`
 
 ## 5.10 vulntarget-j
 
-设计：`ju2i`
+设计：`ju2i `    
 
 测试：`cypher`、 `xxp`、`ju2i`、`foxcookie`
 
