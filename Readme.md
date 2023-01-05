@@ -176,7 +176,7 @@
 
 设计：`ju2i`
 
-测试：`cypher`、 `xxp`、`ju2i`
+测试：`cypher`、 `xxp`、`ju2i`、`foxcookie`
 
 
 
