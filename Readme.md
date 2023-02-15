@@ -20,7 +20,7 @@
 	<img src="https://img.shields.io/github/issues-pr/crow821/vulntarget?style=flat-square" alt="vulntarget pull-requests"/>
   </a>
 
-> 更新时间：2023.01.05 
+> 更新时间：2023.02.15 
 
 # 1. 免责声明
 
@@ -105,9 +105,17 @@
 
 搭建：https://mp.weixin.qq.com/s/3TOLSUaKfIOFlo3j-0IEFA
 
+打靶：https://mp.weixin.qq.com/s/LHq8O2F-r6rbhVW84Q4KEg
+
+## 3.12 vulntarget-L
+
+搭建：https://mp.weixin.qq.com/s/tXSjXIDG1mLpVxzZui31Nw
+
+打靶：
+
 # 4. 靶场下载
 
-## vulntrarget-a~vulntarget-k
+## vulntrarget-a~vulntarget-L
 
 下载地址：
 
