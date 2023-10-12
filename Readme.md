@@ -196,9 +196,9 @@
 
 ## 5.12 vulntarget-L
 
-设计：`LikeKelvin`、`foxcookie `  
+设计：`Fariy`
 
-测试：`foxcookie`、`crow`、`cypher`   
+测试：`Fariy`  
 
 
 
