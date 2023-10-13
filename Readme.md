@@ -210,9 +210,7 @@
 
 ## 5.13 vulntarget-m
 
-设计：`lemono`
-
-`check flag`：`crow`
+设计：`lemono` `crow`
 
 测试：`lemono `、`crow`
 
