@@ -20,7 +20,7 @@
 	<img src="https://img.shields.io/github/issues-pr/crow821/vulntarget?style=flat-square" alt="vulntarget pull-requests"/>
   </a>
 
-> 更新时间：2023.10.31 
+> 更新时间：2023.11.08 
 
 # 1. 免责声明
 
