@@ -221,7 +221,7 @@
 
 如果你有任何意见或建议，可以直接联系我们
 
-邮箱：vuln@bolean.com.cn  
+邮箱：`vuln#bolean.com.cn`（#-->@）
 
 邮箱：`crow_821#163.com`（#-->@）
 
