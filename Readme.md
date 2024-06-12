@@ -122,9 +122,9 @@
 
 ## 3.14 vulntarget-n
 
-搭建：待更新
+搭建：https://mp.weixin.qq.com/s/ZO-SXw5rvpLrjmcjcN9_6w
 
-打靶：待更新
+打靶：https://mp.weixin.qq.com/s/k8tXFKLK9Ky0J4_uPfOd3A
 
 
 
