@@ -20,7 +20,7 @@
 	<img src="https://img.shields.io/github/issues-pr/crow821/vulntarget?style=flat-square" alt="vulntarget pull-requests"/>
   </a>
 
-> 更新时间：2024.06.04 
+> 更新时间：2024.06.18
 
 # 1. 免责声明
 
@@ -35,7 +35,7 @@
 
 # 2. 靶场介绍
 
-`vulntarget`靶场是我们自行设计搭建的靶场，其中涵盖Web漏洞、主机漏洞、域漏洞、工控漏洞等等。
+`vulntarget`靶场是我们自行设计搭建的靶场，其中涵盖Web漏洞、主机漏洞、域漏洞、工控漏洞、应急响应等。
 ​
 
 目前正在不断更新中。。。。。。
@@ -44,7 +44,7 @@
 
 欢迎多多`star`。。。
 
-`vulntarget`是一个开源的靶场，也欢迎提交您的设计
+`vulntarget`是一个开源的靶场，也欢迎提交您的设计！
 
 
 
