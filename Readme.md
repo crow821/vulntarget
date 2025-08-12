@@ -35,12 +35,11 @@
 
 # 2. 靶场介绍
 
-`vulntarget`靶场是我们自行设计搭建的靶场，其中涵盖Web漏洞、主机漏洞、域漏洞、工控漏洞、应急响应等。
-​
+`vulntarget` 最初由`星期五实验室`发起，早期作为综合性实战靶场由网络安全爱好者共同维护。目前，从 `vulntarget-n` 开始，该靶场由` crow` 单独负责维护。
 
 目前正在不断更新中。。。。。。
 
-`vulntarget`整体的大小尽量控制在`16G`内存以内，主要是为了确保每个人都能够在本机对环境进行复现。
+`vulntarget`整体的大小尽量控制在`16G`内存以内（vulntarget-o除外），主要是为了确保每个人都能够在本机对环境进行复现。
 
 欢迎多多`star`。。。
 
@@ -130,7 +129,7 @@
 
 搭建：https://mp.weixin.qq.com/s/1i8LCsgy6OG0cpieJ4kRGw
 
-打靶：待更新
+打靶：https://mp.weixin.qq.com/s/IjcURvYxbvMvBXHbxCi4aA
 
 
 
@@ -143,10 +142,6 @@
 百度云
 
 链接: https://pan.baidu.com/s/1sv9qdioNF4PTUliix5HEfg 提取码: 2dwq 
-
-阿里云：
-
-~~阿里云当前不支持zip文件分享~~
 
 夸克网盘：
 
