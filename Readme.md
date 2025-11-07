@@ -252,7 +252,7 @@
 
 # License
 
-Copyright © 2024 [crow821](https://github.com/crow821)
+Copyright © 2025 [crow821](https://github.com/crow821)
 
 本项目遵循协议：[GPL--3.0 License](https://github.com/crow821/vulntarget/blob/master/LICENSE)
 
