@@ -91,7 +91,7 @@
 
 **公众号：`乌鸦安全`**
 
-<img src="../../../Desktop/crowsec.jpg" width="30%" height="30%" />
+<img src="crowsec.jpg" width="30%" height="30%" />
 
 # stars
 
