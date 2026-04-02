@@ -21,7 +21,7 @@
   </a>
 
 
-> 更新时间：2026.03.29
+> 更新时间：2026.04.02
 
 # 1. 免责声明 
 
@@ -36,7 +36,7 @@
 
 # 2. 靶场介绍
 
-`vulntarget` 最初由`星期五实验室`发起，早期作为综合性实战靶场由网络安全爱好者共同维护。目前，从 `vulntarget-n` 开始，该靶场由` crow` 单独负责维护。
+`vulntarget` 最初由`星期五实验室`发起，早期作为综合性实战靶场由网络安全爱好者共同维护。目前，从 `vulntarget-n` 开始，该靶场由` 乌鸦安全` 单独负责维护。
 
 `vulntarget`整体的大小尽量控制在`16G`内存以内（`vulntarget-o`除外），主要是为了确保每个人都能够在本机对环境进行复现。
 
@@ -50,7 +50,7 @@
 
 | 靶场名称     | 搭建类型                                                     | 设计人员              | 搭建教程                                                | 线上参考                                                     |
 | :----------- | :----------------------------------------------------------- | :-------------------- | :------------------------------------------------------ | :----------------------------------------------------------- |
-| vulntarget-p | ipv6、mysql数据恢复技术                                      | crow                  | 待补充                                                  | 待补充                                                       |
+| vulntarget-p | ipv6、mysql数据恢复技术                                      | crow                  | [点击查看](./vulntarget/target_build/vulntarget-p.html) | [点击查看](https://mp.weixin.qq.com/s/_NvcPLB3cTVzKH4-wFsb7g) |
 | vulntarget-o | VMware vCenter 靶场环境                                      | crow                  | [点击查看](./vulntarget/target_build/vulntarget-o.html) | [点击查看](https://mp.weixin.qq.com/s/1i8LCsgy6OG0cpieJ4kRGw) |
 | vulntarget-n | 勒索病毒应急、取证                                           | crow                  | [点击查看](./vulntarget/target_build/vulntarget-n.html) | [点击查看](https://mp.weixin.qq.com/s/ZO-SXw5rvpLrjmcjcN9_6w) |
 | vulntarget-m | java内存马应急、nacos、shiro、fastjson、攻防一体靶场         | lemono、crow          | [点击查看](./vulntarget/target_build/vulntarget-m.html) | [点击查看](https://mp.weixin.qq.com/s/lXFQ3xUAD-Yn_-8hMhjrcQ) |
@@ -71,7 +71,7 @@
 
 | 靶场名称     | 测试人员                                      | 参考 write up                                                | 线上参考                                                     |
 | :----------- | :-------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| vulntarget-p | crow                                          | 待更新                                                       | 待更新                                                       |
+| vulntarget-p | crow                                          | [点击查看](./vulntarget/write_up/vulntarget-p-write-up.html) | [点击查看](https://mp.weixin.qq.com/s/lY4cfXV-I49RUOF9-4YP2g) |
 | vulntarget-o | crow                                          | [点击查看](./vulntarget/write_up/vulntarget-o-write-up.html) | [点击查看](https://mp.weixin.qq.com/s/IjcURvYxbvMvBXHbxCi4aA) |
 | vulntarget-n | crow                                          | [点击查看](./vulntarget/write_up/vulntarget-n-write-up.html) | [点击查看](https://mp.weixin.qq.com/s/k8tXFKLK9Ky0J4_uPfOd3A) |
 | vulntarget-m | lemono、crow                                  | [点击查看](./vulntarget/write_up/vulntarget-m-write-up.html) | [点击查看](https://mp.weixin.qq.com/s/YxZqgd6Hjz3QcYCPAGpAGg) |
