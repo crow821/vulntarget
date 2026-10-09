@@ -33,7 +33,7 @@
 
 # 2. About the labs
 
-`vulntarget` was originally started by Friday Lab (星期五实验室) and maintained by a community of security enthusiasts as a comprehensive hands-on lab. From `vulntarget-n` onward, the series has been maintained solely by Crow Security (乌鸦安全).
+`vulntarget` was originally started by Friday Lab (星期五实验室) and maintained by a community of security enthusiasts as a comprehensive hands-on lab. From `vulntarget-n` onward, the series has been maintained solely by crowsec (乌鸦安全).
 
 Except for `vulntarget-o`, the labs aim to use no more than 16 GB of memory so that they can be reproduced on a local machine.
 
