@@ -39,8 +39,6 @@ Except for `vulntarget-o`, the labs aim to use no more than 16 GB of memory so t
 
 If you find the project useful, please give it a star. `vulntarget` is open source, and your lab designs are welcome.
 
-The linked setup guides and write-ups are currently in Chinese.
-
 # 3. Lab setup guides
 
 | Lab | Topics | Designer(s) | Setup guide | Online reference |
@@ -94,7 +92,7 @@ Choose either download source:
 
 # 6. Contact
 
-If you have comments or suggestions, email `crow_821@163.com`.
+If you have comments or suggestions, email `crow_821#163.com` (`#` → `@`).
 
 WeChat public account: **乌鸦安全 (Crow Security)**
 
