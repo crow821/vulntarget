@@ -1,24 +1,25 @@
+<h1 align="center">Vulntarget 👋</h1>
 
-
-<h1 align="center">Welcome to Vulntarget 👋</h1>
+<p align="center"><strong>简体中文</strong> | <a href="./README.en.md">English</a></p>
 
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/crow821/github-profile-readme-generator/fork" target="blank">
+  <a href="https://github.com/crow821/vulntarget/forks" target="blank">
 	<img src="https://img.shields.io/github/forks/crow821/vulntarget?style=flat-square" alt="vulntarget forks"/>
   </a>
   <a href="https://github.com/crow821/vulntarget/blob/master/LICENSE" target="blank">
-    <img alt="License: GPL--3.0 License" src="https://img.shields.io/github/license/crow821/Vulntarget" />
+    <img alt="GPL-3.0 License" src="https://img.shields.io/github/license/crow821/vulntarget" />
   </a>
-  <a href="https://github.com/crow821/github-profile-readme-generator/stargazers" target="blank">
+  <a href="https://github.com/crow821/vulntarget/stargazers" target="blank">
 	<img src="https://img.shields.io/github/stars/crow821/vulntarget?style=flat-square" alt="vulntarget stars"/>
   </a>
-  <a href="https://github.com/crow821/github-profile-readme-generator/issues" target="blank">
+  <a href="https://github.com/crow821/vulntarget/issues" target="blank">
 	<img src="https://img.shields.io/github/issues/crow821/vulntarget?style=flat-square" alt="vulntarget issues"/>
   </a>
-  <a href="https://github.com/crow821/github-profile-readme-generator/pulls" target="blank">
+  <a href="https://github.com/crow821/vulntarget/pulls" target="blank">
 	<img src="https://img.shields.io/github/issues-pr/crow821/vulntarget?style=flat-square" alt="vulntarget pull-requests"/>
   </a>
+</p>
 
 
 > 更新时间：2026.04.02
@@ -27,7 +28,7 @@
 
 **`vulntarget`靶场系列仅供安全专业人员练习渗透测试技术，此靶场所提供的信息只为网络安全人员对自己所负责的网站、服务器等（包括但不限于）进行检测或维护参考，未经授权请勿利用靶场中的技术资料对任何计算机系统进行入侵操作。利用此靶场所提供的信息而造成的直接或间接后果和损失，均由使用者本人负责。**
 
-**`vulntarget`靶场系列拥有对此靶场系列的的修改、删除和解释权限，未经授权，不得用于其他！！！**
+**`vulntarget`靶场系列拥有对此靶场系列的修改、删除和解释权限，未经授权，不得用于其他！！！**
 ​
 
 <h1 ><font color='red'>未授权，不渗透！！！</font></h1>
@@ -90,7 +91,7 @@
 
 # 5. 靶场下载
 
-## vulntrarget-a~vulntarget-p
+## vulntarget-a ~ vulntarget-p
 
 下载地址：
 
@@ -112,15 +113,14 @@
 
 <img src="crowsec.jpg" width="30%" height="30%" />
 
-# stars
+# Stars
 
 
 
-![Stargazers over time](https://starchart.cc/crow821/vulntarget.svg)
+[![Vulntarget 的 Star 历史](https://api.star-history.com/svg?repos=crow821/vulntarget&type=Date)](https://www.star-history.com/?repos=crow821%2Fvulntarget&type=date)
 
 # License
 
 Copyright © 2025 [crow821](https://github.com/crow821)
 
-本项目遵循协议：[GPL--3.0 License](https://github.com/crow821/vulntarget/blob/master/LICENSE)
-
+本项目遵循 [GNU GPL v3.0 协议](https://github.com/crow821/vulntarget/blob/master/LICENSE)。
