@@ -94,7 +94,7 @@ Choose either download source:
 
 If you have comments or suggestions, email `crow_821#163.com` (`#` → `@`).
 
-WeChat public account: **乌鸦安全 (Crow Security)**
+WeChat public account: **乌鸦安全 (crowsec)**
 
 <img src="crowsec.jpg" width="30%" alt="Crow Security WeChat account QR code" />
 
@@ -104,6 +104,6 @@ WeChat public account: **乌鸦安全 (Crow Security)**
 
 # License
 
-Copyright © 2025 [crow821](https://github.com/crow821)
+Copyright © 2026 [crow821](https://github.com/crow821)
 
 This project is licensed under the [GNU General Public License v3.0](https://github.com/crow821/vulntarget/blob/master/LICENSE).
